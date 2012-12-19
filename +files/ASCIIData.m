@@ -20,6 +20,7 @@ classdef ASCIIData < handle
     % information.
     %
     
+    % NOE DILLDall
     
     %
     % Author: Åge Andreas Falnes Olsen, Justervesenet
